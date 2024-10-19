@@ -27,7 +27,7 @@ Instructions to run game:
 
 <h2>Sample Gameplay</h2>
 
-![Link Name](https://github.com/wjz224/Scramble-Scrolls/blob/main/ScrambleScroll.png)  
+[![Click to Watch Demo](https://github.com/wjz224/Scramble-Scrolls/blob/main/ScrambleScroll.png](https://drive.google.com/file/d/1V8X95Hx8t6yBzF3JySJcWmfTowHCVRlY/view?usp=drive_link)
 
 <h3> Authors: </h3>
 <ul>
