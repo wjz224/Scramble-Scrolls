@@ -13,8 +13,8 @@ Scrambled Scrolls is a rogue-like word game with the core gameplay of Scrabble. 
 
 <h2>Instructions to run game:</h2>
 
-1. Install express to host the web app:
-`npm install express`
+1. Install node modules to host the web app:
+`npm i`
 
 2. Run the app:
 `node app.js`
