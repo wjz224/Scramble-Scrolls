@@ -11,7 +11,7 @@ Scrambled Scrolls is a rogue-like word game with the core gameplay of Scrabble. 
     5. <b><u>Scoring</u></b>: The score for each word is the sum of the letter values.<br>
     6. <b><u>Tile Replacement</u></b>: After a player places tiles on the board, they draw new tiles from the tile bag to bring their hand back to 7 tiles.<br>
 
-Instructions to run game:
+<h2>Instructions to run game:</h2>
 
 1. Install express to host the web app:
 `npm install express`
