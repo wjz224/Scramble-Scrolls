@@ -26,10 +26,7 @@ Instructions to run game:
 
 
 <h2>Sample Gameplay</h2>
-<video width="1000" height="400" controls>
-<source src="SampleGameplay.mp4" type="video/mp4">
-</video>
-
+![](https://drive.google.com/file/d/1V8X95Hx8t6yBzF3JySJcWmfTowHCVRlY/view?usp=drive_link)
 <h3> Authors: </h3>
 <ul>
     <li>Wilson Zheng (wjz224) </li>
