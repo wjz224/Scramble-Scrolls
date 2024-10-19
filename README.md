@@ -2,8 +2,8 @@
 Scrambled Scrolls is a rogue-like word game with the core gameplay of Scrabble. Our game consists of five stages, each stage being harder to clear. If the player fails to clear a stage, they fail the game and the game will restart. Players fail to clear a stage if their ending score is below the required score for the stage.
 
 <h2>Rules:  </h2>
-    1. The game is single player.
-    2. <u>Tile Bag</u>: A pool of additional tiles is drawn from throughout the game, replenishing players' hands after each turn.<br>
+    1. The game is single player.<br>
+    2. <b><u>Tile Bag</u></b>: A pool of additional tiles is drawn from throughout the game, replenishing players' hands after each turn.<br>
     3. <b><u>Forming Words</u></b>: On a player's turn, they must form a valid word:<br>
         - The word must be placed horizontally or vertically.<br>
         - The word must connect with existing tiles on the board if it is not the first move.<br>
