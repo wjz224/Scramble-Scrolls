@@ -26,8 +26,9 @@ Instructions to run game:
 
 
 <h2>Sample Gameplay</h2>
+
 ![Link Name](SampleScroll.png)  
-ScreenShot
+
 <h3> Authors: </h3>
 <ul>
     <li>Wilson Zheng (wjz224) </li>
