@@ -26,7 +26,7 @@ Instructions to run game:
 
 
 <h2>Sample Gameplay</h2>
-[![Watch Demo Here](/ScrambleScroll.png)](https://drive.google.com/file/d/1V8X95Hx8t6yBzF3JySJcWmfTowHCVRlY/view?usp=drive_link)
+![Link Name](SampleScroll.png)  
 ScreenShot
 <h3> Authors: </h3>
 <ul>
