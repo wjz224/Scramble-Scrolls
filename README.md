@@ -3,13 +3,13 @@ Scrambled Scrolls is a rogue-like word game with the core gameplay of Scrabble. 
 
 <h2>Rules:  </h2>
     1. The game is single player.
-    2. Tile Bag: A pool of additional tiles is drawn from throughout the game, replenishing players' hands after each turn.<br>
-    3. Forming Words: On a player's turn, they must form a valid word:<br>
+    2. <b>Tile Bag</b>: A pool of additional tiles is drawn from throughout the game, replenishing players' hands after each turn.<br>
+    3. <b>Forming Words</b>: On a player's turn, they must form a valid word:<br>
         - The word must be placed horizontally or vertically.<br>
         - The word must connect with existing tiles on the board if it is not the first move.<br>
-    4. First Word: The first word must be placed so that one of its tiles covers the center square, which is a Double Word Score.<br>
-    5. Scoring: The score for each word is the sum of the letter values, adjusted by any bonus squares that the tiles occupy. If any tile lands on a Double Word or Triple Word square, the   entire word score is multiplied accordingly.<br>
-    6. Tile Replacement: After a player places tiles on the board, they draw new tiles from the tile bag to bring their hand back to 7 tiles.<br>
+    4. <b>First Word</b>: The first word must be placed so that one of its tiles covers the center square, which is a Double Word Score.<br>
+    5. <b>Scoring</b>: The score for each word is the sum of the letter values, adjusted by any bonus squares that the tiles occupy. If any tile lands on a Double Word or Triple Word square, the   entire word score is multiplied accordingly.<br>
+    6. <b>Tile Replacement</b>: After a player places tiles on the board, they draw new tiles from the tile bag to bring their hand back to 7 tiles.<br>
 
 Instructions to run game:
 
