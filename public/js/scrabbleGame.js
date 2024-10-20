@@ -528,10 +528,11 @@ class Game {
         // Load dictionary file
         function loadWords() {
             var request = new XMLHttpRequest();
-            request.open("GET", "/words.txt", false);
+            request.open("GET", "words/words.txt", false);
             request.onreadystatechange = function () {
                 if (request.readyState === 4) {
                     dictionary = request.responseText.split("\r\n");
+                    dictionary = dictionary[0].split('\n');
                 }
             };
             request.send(null);
@@ -548,6 +549,7 @@ class Game {
                 console.log('Word found');
                 validword = true;
             } else {
+                console.log('Dict: '+ dictionary);
                 console.log('Word not found - ' + wordstring);
                 validword = false;
             }

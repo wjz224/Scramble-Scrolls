@@ -10,7 +10,7 @@ Scrambled Scrolls is a rogue-like word game with the core gameplay of Scrabble. 
     4. <b><u>First Word</u></b>: The first word must be placed so that one of its tiles covers the center square.<br>
     5. <b><u>Scoring</u></b>: The score for each word is the sum of the letter values.<br>
     6. <b><u>Tile Replacement</u></b>: After a player places tiles on the board, they draw new tiles from the tile bag to bring their hand back to 7 tiles.<br>
-    7.
+
 <h2>Instructions to run game:</h2>
 
 1. Install node modules to host the web app:
