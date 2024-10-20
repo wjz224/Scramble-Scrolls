@@ -23,7 +23,7 @@ Scrambled Scrolls is a rogue-like word game with the core gameplay of Scrabble. 
 `http://localhost:3000/`
 
 
-<h2>Website: </h2> 
+<h2>Game Website: </h2> 
 
 <https://superlative-sherbet-e47dde.netlify.app/>
 
