@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: your-app-name
+    env: static
+    buildCommand: "npm run build"  # Replace with your actual build command
+    staticPublishPath: public      # Set to your actual directory for public files (ensure words.txt is inside this directory)
+    routes:
+      - type: rewrite
+        source: /words.txt         # Ensure words.txt is served from the public directory
+        destination: /public/words.txt
